@@ -1,0 +1,2 @@
+# nextCore_manyrepo_Shain
+複数repoository 社員repository
